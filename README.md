@@ -50,12 +50,12 @@ A modern **Scientific Calculator** built using HTML, CSS, and JavaScript with Li
 ---
 
 ## 🌐 Live Demo
-👉 https://your-live-demo-link.com  
+👉https://komalaher1410-glitch.github.io/Scientific-calculator/ 
 
 ---
 
 ## 💻 GitHub Repository
-👉 https://github.com/your-username/scientific-calculator  
+👉 https://github.com/komalaher1410-glitch/Scientific-calculator  
 
 ---
 
